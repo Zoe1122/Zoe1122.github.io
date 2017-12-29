@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Web design
+  url: /web design/
+  excerpt: 好好码代码
+  image: 300x200.gif
+  
+- title: Visualization
+  url: /visualization/
+  excerpt: 好好做图
+  image: 300x200-4.gif
+  
+- title: 作品集
+  url: /portfolio/
+  excerpt: 好好做作品
+  image: 300x200-2.gif
+  
+- title: contact
+  url: /contact/
+  excerpt: 联系我
+  image: 300x200-3.gif
