@@ -12,7 +12,7 @@
 	@include transform(translate(0,0));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
 	&.slide {
-		@include transform(translate(-1600px,0));
+		@include transform(translate(16em,0));
 	}
 	.inner-wrap {
 		@include outer-container;
@@ -27,6 +27,7 @@
 	height: $masthead-height;
 	text-decoration: none;
 	color: $black;
+	transform:translate(0.4px,0);
 	font-family: $alt-font;
 	font-weight: 700;
 	@include font-size(20,no);
@@ -34,15 +35,19 @@
 	text-transform: uppercase;
 }
 a.site-title{
-	width: 180px;
-    height: 60px;
-    background: rgba(165, 158, 158, 0.84);
+	width: 300px;
+    height: 70px;
+	border: 0px solid;
+	border-radius: 37px;
+    background: #000;
     transition: width 2s;
     text-align: center;
     -webkit-transition: width 2s;
+	font-size: 2.11em;
+	color: #eee
 }
 a.site-title:hover{
-	width: 230px;
+	width: 340px;
 }
 /*
    Menus
