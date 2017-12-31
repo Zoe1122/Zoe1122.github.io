@@ -33,8 +33,17 @@
 	line-height: .5 * $masthead-height; // half the height to center vertically
 	text-transform: uppercase;
 }
-
-
+a.site-title{
+	width: 180px;
+    height: 60px;
+    background: rgba(165, 158, 158, 0.84);
+    transition: width 2s;
+    text-align: center;
+    -webkit-transition: width 2s;
+}
+a.site-title:hover{
+	width: 230px;
+}
 /*
    Menus
    ========================================================================== */

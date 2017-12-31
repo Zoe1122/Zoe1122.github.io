@@ -43,3 +43,19 @@
     }
   }
 }
+article.tile {
+    width: auto;
+    height: auto;
+    background-color: #c1c1b4;
+    box-shadow: 10px 10px 5px #888888;
+}
+  .post-excerpt {
+	font-size:0.5rem;
+	}
+	.tile .post-excerpt {
+		font-size: 16px;
+        font-size: 0.5rem;
+        line-height: 1.5;
+        margin-bottom: 24px;
+        margin-bottom: 1.5rem;
+	}

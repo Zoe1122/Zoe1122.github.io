@@ -154,6 +154,9 @@
         @include font-size(32,no);
       }
     }
+	.title:hover {
+	  transform: scale(1.1);
+	}
     .excerpt {
       margin-top: 0;
       margin-left: 60px;
