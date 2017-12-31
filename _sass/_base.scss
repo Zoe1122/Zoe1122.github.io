@@ -5,7 +5,12 @@
 /*
    Typography
    ========================================================================== */
-
+body{
+	background:linear-gradient(#938888, #fff);
+	-webkit-background:linear-gradient(#938888, #fff);
+	-moz-background:linear-gradient(#938888, #fff);
+	-o-background:linear-gradient(#938888, #fff);
+	}
 body {
 	font-family: $base-font;
 	color: $text-color;
