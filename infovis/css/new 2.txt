@@ -1,0 +1,8 @@
+#nav, #feature{
+	margin:1%}
+h2{ color: #FFFFFF;}
+#feature, .article{
+	 height: 10em;
+	 margin-bottom: 1em;
+	 background-color:#696969 ;
+	}	
