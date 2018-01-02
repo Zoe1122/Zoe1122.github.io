@@ -73,7 +73,7 @@
   }
   transform: translateX(100%);
   transition: $sliding-menu-animation;
-  background: $sliding-menu-background;
+  background:rgba(0, 0, 0, 0.75);
   z-index: 20;
   overflow-y: auto;
   overflow-x: hidden;
