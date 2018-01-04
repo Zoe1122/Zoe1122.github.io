@@ -6,7 +6,7 @@ modified:
 excerpt: "好记性不如烂笔头"
 tags: []
 image: 
-  feature: Portfolio.svg
+  feature: 
   teaser:
 ---
 
