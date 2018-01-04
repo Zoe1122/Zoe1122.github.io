@@ -6,7 +6,7 @@ modified:
 excerpt: "好好做图"
 tags: []
 image: 
-  feature: Portfolio.svg
+  feature:
   teaser:
 ---
 
