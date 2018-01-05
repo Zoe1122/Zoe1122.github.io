@@ -12,7 +12,7 @@ image:
 
 
 <div class="tiles">
-{% for post in site.categories.infovisnotes %}
+{% for post in site.categories.post_infovis %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles 把所有categories 有 posts列出來-->
