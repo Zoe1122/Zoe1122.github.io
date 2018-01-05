@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "web"
+title: "信息可视化笔记"
 date: 2017-12-30T11:40:45-04:00
 modified:
 excerpt: "好记性不如烂笔头"
@@ -10,7 +10,7 @@ image:
   teaser:
 ---
 
-
+ 在此展示网页设计和信息可视化的读书笔记
 
 <div class="tiles">
 {% for post in site.categories.rwd %}
