@@ -1,5 +1,6 @@
 # Site navigation links
 
+
 - title: 网页设计作品集
   url: /portfolio/
   excerpt: 好好码代码
@@ -10,7 +11,12 @@
   excerpt: 好好做图
   image: 信息可视化.gif
   
-- title: 学习笔记
-  url: /posts/
+- title: 网页设计学习笔记
+  url: /posts/rwd/
   excerpt: 好好记笔记
-  image: 笔记.gif
+  image: 笔记.gif      
+  
+- title:信息可视化学习笔记
+  url: /posts/infovis/
+  excerpt: 好好记笔记
+  image: 笔记.gif  
